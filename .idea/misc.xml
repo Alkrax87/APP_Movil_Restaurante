@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/TheDa/AndroidStudioProjects/DemoAPP/app/src/main/res/drawable/bg_round.xml" value="0.338" />
+        <entry key="..\:/Users/TheDa/AndroidStudioProjects/DemoAPP/app/src/main/res/drawable/btn_style.xml" value="0.342" />
+        <entry key="..\:/Users/TheDa/AndroidStudioProjects/DemoAPP/app/src/main/res/drawable/card.xml" value="0.342" />
+        <entry key="..\:/Users/TheDa/AndroidStudioProjects/DemoAPP/app/src/main/res/drawable/card2.xml" value="0.342" />
+        <entry key="..\:/Users/TheDa/AndroidStudioProjects/DemoAPP/app/src/main/res/drawable/card_focussed.xml" value="0.342" />
+        <entry key="..\:/Users/TheDa/AndroidStudioProjects/DemoAPP/app/src/main/res/drawable/custom_card.xml" value="0.342" />
+        <entry key="..\:/Users/TheDa/AndroidStudioProjects/DemoAPP/app/src/main/res/drawable/custom_email.xml" value="0.342" />
+        <entry key="..\:/Users/TheDa/AndroidStudioProjects/DemoAPP/app/src/main/res/drawable/custom_filter.xml" value="0.342" />
+        <entry key="..\:/Users/TheDa/AndroidStudioProjects/DemoAPP/app/src/main/res/drawable/custom_food.xml" value="0.342" />
+        <entry key="..\:/Users/TheDa/AndroidStudioProjects/DemoAPP/app/src/main/res/drawable/custom_input.xml" value="0.342" />
+        <entry key="..\:/Users/TheDa/AndroidStudioProjects/DemoAPP/app/src/main/res/drawable/custom_input2.xml" value="0.342" />
+        <entry key="..\:/Users/TheDa/AndroidStudioProjects/DemoAPP/app/src/main/res/drawable/custom_money.xml" value="0.342" />
+        <entry key="..\:/Users/TheDa/AndroidStudioProjects/DemoAPP/app/src/main/res/drawable/custom_name.xml" value="0.342" />
+        <entry key="..\:/Users/TheDa/AndroidStudioProjects/DemoAPP/app/src/main/res/drawable/custom_password.xml" value="0.342" />
+        <entry key="..\:/Users/TheDa/AndroidStudioProjects/DemoAPP/app/src/main/res/drawable/custom_phone.xml" value="0.342" />
+        <entry key="..\:/Users/TheDa/AndroidStudioProjects/DemoAPP/app/src/main/res/drawable/custom_upload.xml" value="0.342" />
+        <entry key="..\:/Users/TheDa/AndroidStudioProjects/DemoAPP/app/src/main/res/drawable/dynamic_rv_bg.xml" value="0.342" />
+        <entry key="..\:/Users/TheDa/AndroidStudioProjects/DemoAPP/app/src/main/res/drawable/edit_text_bg.xml" value="0.342" />
+        <entry key="..\:/Users/TheDa/AndroidStudioProjects/DemoAPP/app/src/main/res/drawable/email.xml" value="0.342" />
+        <entry key="..\:/Users/TheDa/AndroidStudioProjects/DemoAPP/app/src/main/res/drawable/email_focused.xml" value="0.342" />
+        <entry key="..\:/Users/TheDa/AndroidStudioProjects/DemoAPP/app/src/main/res/drawable/filter.xml" value="0.342" />
+        <entry key="..\:/Users/TheDa/AndroidStudioProjects/DemoAPP/app/src/main/res/drawable/filter_focused.xml" value="0.342" />
+        <entry key="..\:/Users/TheDa/AndroidStudioProjects/DemoAPP/app/src/main/res/drawable/food.xml" value="0.342" />
+        <entry key="..\:/Users/TheDa/AndroidStudioProjects/DemoAPP/app/src/main/res/drawable/food2.xml" value="0.339" />
+        <entry key="..\:/Users/TheDa/AndroidStudioProjects/DemoAPP/app/src/main/res/drawable/food_focused.xml" value="0.342" />
+        <entry key="..\:/Users/TheDa/AndroidStudioProjects/DemoAPP/app/src/main/res/drawable/ic_baseline_access_time_24.xml" value="0.339" />
+        <entry key="..\:/Users/TheDa/AndroidStudioProjects/DemoAPP/app/src/main/res/drawable/ic_baseline_circle_notifications_24.xml" value="0.342" />
+        <entry key="..\:/Users/TheDa/AndroidStudioProjects/DemoAPP/app/src/main/res/drawable/ic_baseline_local_phone_24.xml" value="0.339" />
+        <entry key="..\:/Users/TheDa/AndroidStudioProjects/DemoAPP/app/src/main/res/drawable/ic_cart.xml" value="0.342" />
+        <entry key="..\:/Users/TheDa/AndroidStudioProjects/DemoAPP/app/src/main/res/drawable/ic_list.xml" value="0.342" />
+        <entry key="..\:/Users/TheDa/AndroidStudioProjects/DemoAPP/app/src/main/res/drawable/ic_list2.xml" value="0.342" />
+        <entry key="..\:/Users/TheDa/AndroidStudioProjects/DemoAPP/app/src/main/res/drawable/ic_location2.xml" value="0.3555" />
+        <entry key="..\:/Users/TheDa/AndroidStudioProjects/DemoAPP/app/src/main/res/drawable/ic_map.xml" value="0.342" />
+        <entry key="..\:/Users/TheDa/AndroidStudioProjects/DemoAPP/app/src/main/res/drawable/ic_map2.xml" value="0.339" />
+        <entry key="..\:/Users/TheDa/AndroidStudioProjects/DemoAPP/app/src/main/res/drawable/ic_next.xml" value="0.339" />
+        <entry key="..\:/Users/TheDa/AndroidStudioProjects/DemoAPP/app/src/main/res/drawable/ic_person.xml" value="0.342" />
+        <entry key="..\:/Users/TheDa/AndroidStudioProjects/DemoAPP/app/src/main/res/drawable/ic_person2.xml" value="0.342" />
+        <entry key="..\:/Users/TheDa/AndroidStudioProjects/DemoAPP/app/src/main/res/drawable/ic_person21.xml" value="0.342" />
+        <entry key="..\:/Users/TheDa/AndroidStudioProjects/DemoAPP/app/src/main/res/drawable/ic_person3.xml" value="0.342" />
+        <entry key="..\:/Users/TheDa/AndroidStudioProjects/DemoAPP/app/src/main/res/drawable/ic_upload_focused.xml" value="0.342" />
+        <entry key="..\:/Users/TheDa/AndroidStudioProjects/DemoAPP/app/src/main/res/drawable/money_focused.xml" value="0.342" />
+        <entry key="..\:/Users/TheDa/AndroidStudioProjects/DemoAPP/app/src/main/res/drawable/name_focused.xml" value="0.342" />
+        <entry key="..\:/Users/TheDa/AndroidStudioProjects/DemoAPP/app/src/main/res/drawable/next_btn_start.xml" value="0.342" />
+        <entry key="..\:/Users/TheDa/AndroidStudioProjects/DemoAPP/app/src/main/res/drawable/password.xml" value="0.342" />
+        <entry key="..\:/Users/TheDa/AndroidStudioProjects/DemoAPP/app/src/main/res/drawable/password_focused.xml" value="0.342" />
+        <entry key="..\:/Users/TheDa/AndroidStudioProjects/DemoAPP/app/src/main/res/drawable/pg_style.xml" value="0.338" />
+        <entry key="..\:/Users/TheDa/AndroidStudioProjects/DemoAPP/app/src/main/res/drawable/phone_focused.xml" value="0.342" />
+        <entry key="..\:/Users/TheDa/AndroidStudioProjects/DemoAPP/app/src/main/res/drawable/search_bg.xml" value="0.342" />
+        <entry key="..\:/Users/TheDa/AndroidStudioProjects/DemoAPP/app/src/main/res/drawable/search_view_bg.xml" value="0.339" />
+        <entry key="..\:/Users/TheDa/AndroidStudioProjects/DemoAPP/app/src/main/res/drawable/static_rv.xml" value="0.342" />
+        <entry key="..\:/Users/TheDa/AndroidStudioProjects/DemoAPP/app/src/main/res/drawable/static_rv_item.xml" value="0.342" />
+        <entry key="..\:/Users/TheDa/AndroidStudioProjects/DemoAPP/app/src/main/res/drawable/static_rv_selected_bg.xml" value="0.342" />
+        <entry key="..\:/Users/TheDa/AndroidStudioProjects/DemoAPP/app/src/main/res/drawable/vie_bg.xml" value="0.342" />
+        <entry key="..\:/Users/TheDa/AndroidStudioProjects/DemoAPP/app/src/main/res/layout/activity_add_food.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/TheDa/AndroidStudioProjects/DemoAPP/app/src/main/res/layout/activity_admin_menu.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/TheDa/AndroidStudioProjects/DemoAPP/app/src/main/res/layout/activity_buy.xml" value="0.35260416666666666" />
+        <entry key="..\:/Users/TheDa/AndroidStudioProjects/DemoAPP/app/src/main/res/layout/activity_cart.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/TheDa/AndroidStudioProjects/DemoAPP/app/src/main/res/layout/activity_delete_food.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/TheDa/AndroidStudioProjects/DemoAPP/app/src/main/res/layout/activity_edit_food.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/TheDa/AndroidStudioProjects/DemoAPP/app/src/main/res/layout/activity_edit_profile.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/TheDa/AndroidStudioProjects/DemoAPP/app/src/main/res/layout/activity_edit_profile_user.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/TheDa/AndroidStudioProjects/DemoAPP/app/src/main/res/layout/activity_intro.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/TheDa/AndroidStudioProjects/DemoAPP/app/src/main/res/layout/activity_log_error.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/TheDa/AndroidStudioProjects/DemoAPP/app/src/main/res/layout/activity_log_valid.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/TheDa/AndroidStudioProjects/DemoAPP/app/src/main/res/layout/activity_login.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/TheDa/AndroidStudioProjects/DemoAPP/app/src/main/res/layout/activity_main.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/TheDa/AndroidStudioProjects/DemoAPP/app/src/main/res/layout/activity_main2.xml" value="0.35260416666666666" />
+        <entry key="..\:/Users/TheDa/AndroidStudioProjects/DemoAPP/app/src/main/res/layout/activity_map_user.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/TheDa/AndroidStudioProjects/DemoAPP/app/src/main/res/layout/activity_reg_error.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/TheDa/AndroidStudioProjects/DemoAPP/app/src/main/res/layout/activity_reg_valid.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/TheDa/AndroidStudioProjects/DemoAPP/app/src/main/res/layout/activity_register_valid.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/TheDa/AndroidStudioProjects/DemoAPP/app/src/main/res/layout/activity_register_validation.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/TheDa/AndroidStudioProjects/DemoAPP/app/src/main/res/layout/activity_user_menu.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/TheDa/AndroidStudioProjects/DemoAPP/app/src/main/res/layout/activity_web_view.xml" value="1.25" />
+        <entry key="..\:/Users/TheDa/AndroidStudioProjects/DemoAPP/app/src/main/res/layout/categories_item.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/TheDa/AndroidStudioProjects/DemoAPP/app/src/main/res/layout/chat_admin_fragment.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/TheDa/AndroidStudioProjects/DemoAPP/app/src/main/res/layout/chat_user_fragment.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/TheDa/AndroidStudioProjects/DemoAPP/app/src/main/res/layout/dashboard_admin_fragment.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/TheDa/AndroidStudioProjects/DemoAPP/app/src/main/res/layout/dynamic_rv_item_layout.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/TheDa/AndroidStudioProjects/DemoAPP/app/src/main/res/layout/dynamic_rv_progress_bar.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/TheDa/AndroidStudioProjects/DemoAPP/app/src/main/res/layout/error.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/TheDa/AndroidStudioProjects/DemoAPP/app/src/main/res/layout/food_admin_item.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/TheDa/AndroidStudioProjects/DemoAPP/app/src/main/res/layout/food_user_item.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/TheDa/AndroidStudioProjects/DemoAPP/app/src/main/res/layout/fragment_blank.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/TheDa/AndroidStudioProjects/DemoAPP/app/src/main/res/layout/fragment_on_boarding1.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/TheDa/AndroidStudioProjects/DemoAPP/app/src/main/res/layout/fragment_on_boarding2.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/TheDa/AndroidStudioProjects/DemoAPP/app/src/main/res/layout/fragment_on_boarding3.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/TheDa/AndroidStudioProjects/DemoAPP/app/src/main/res/layout/home_admin_fragment.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/TheDa/AndroidStudioProjects/DemoAPP/app/src/main/res/layout/home_user_fragment.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/TheDa/AndroidStudioProjects/DemoAPP/app/src/main/res/layout/login_tab_fragment.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/TheDa/AndroidStudioProjects/DemoAPP/app/src/main/res/layout/map_admin_fragment.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/TheDa/AndroidStudioProjects/DemoAPP/app/src/main/res/layout/map_user_fragment.xml" value="0.33" />
+        <entry key="..\:/Users/TheDa/AndroidStudioProjects/DemoAPP/app/src/main/res/layout/menu_admin_fragment.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/TheDa/AndroidStudioProjects/DemoAPP/app/src/main/res/layout/orders_admin_fragment.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/TheDa/AndroidStudioProjects/DemoAPP/app/src/main/res/layout/orders_item.xml" value="0.5" />
+        <entry key="..\:/Users/TheDa/AndroidStudioProjects/DemoAPP/app/src/main/res/layout/orders_item_admin.xml" value="0.67" />
+        <entry key="..\:/Users/TheDa/AndroidStudioProjects/DemoAPP/app/src/main/res/layout/orders_user_fragment.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/TheDa/AndroidStudioProjects/DemoAPP/app/src/main/res/layout/profile_admin_fragment.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/TheDa/AndroidStudioProjects/DemoAPP/app/src/main/res/layout/profile_user_fragment.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/TheDa/AndroidStudioProjects/DemoAPP/app/src/main/res/layout/progress_dialog.xml" value="0.67" />
+        <entry key="..\:/Users/TheDa/AndroidStudioProjects/DemoAPP/app/src/main/res/layout/progress_dialog_register_error.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/TheDa/AndroidStudioProjects/DemoAPP/app/src/main/res/layout/progress_dialog_register_succes.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/TheDa/AndroidStudioProjects/DemoAPP/app/src/main/res/layout/search_menu.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/TheDa/AndroidStudioProjects/DemoAPP/app/src/main/res/layout/signup_tab_fragment.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/TheDa/AndroidStudioProjects/DemoAPP/app/src/main/res/layout/static_rv_item.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/TheDa/AndroidStudioProjects/DemoAPP/app/src/main/res/layout/web_view.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/TheDa/AndroidStudioProjects/DemoAPP/app/src/main/res/menu/menu_buscar.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/TheDa/AndroidStudioProjects/DemoAPP/app/src/main/res/menu/search_menu.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/TheDa/AndroidStudioProjects/DemoAPP/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1975" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
